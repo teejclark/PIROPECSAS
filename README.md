@@ -8,3 +8,7 @@ T.J. Clark-Wolf, David L. Miller, Hannah Drake, David A. Fifield, Jean-Francois 
 All analyses were done in `R`. The code needed to conduct the analyses are in the `Code` folder, and the data are included in the `Data` folder.
 
 ## License
+
+The code is released under the [CC-BY-4.0](https://opensource.org/licenses/mit-license.php).
+
+[![DOI](https://zenodo.org/badge/909099332.svg)](https://doi.org/10.5281/zenodo.14563374)
